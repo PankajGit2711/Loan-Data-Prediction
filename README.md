@@ -1,0 +1,2 @@
+# Loan-Data-Prediction
+Here, The Loan Dataset from LendingClub.com has been analyzed thoroughly. Lending Club connects people who need money (borrowers) with people who have money (investors). Several data analysis graphs are plotted for identifying various dependencies between the features of data. Finally we have tried to classify and predict whether or not the borrower paid back their loan in full. The classification is done through two different Decision Tree Classification  and Random Forest Classification.
